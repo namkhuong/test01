@@ -1,0 +1,7 @@
+Close QA:
+-2510: Tax calculation doesn't apply in Fee Adjustment
+-2577: Daily Transaction Report is missing Service Fee transactions
+-2513: Triple seal functionality is carried over from Arlington and there's no security right to hide it
+In progress:
+-2052: Update Receipt to add Consideration and Exemption Code
+-2408: Efiling transaction report by customer not showing vendor breakdown

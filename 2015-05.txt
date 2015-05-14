@@ -1,0 +1,3 @@
+To do:
+-VM ssh
+-VM clean Windows 7
